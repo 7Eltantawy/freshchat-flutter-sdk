@@ -52,6 +52,8 @@ android {
             signingConfig signingConfigs.debug
         }
     }
+
+    namespace 'com.fc.sampleobjc.flutter_app'
 }
 
 flutter {
